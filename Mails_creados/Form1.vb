@@ -1,7 +1,7 @@
 ﻿Imports System.Data.SqlClient
 Public Class Form1
 
-    Dim bd As New SqlConnection("Data Source=FAE02;Initial Catalog=Gestion;User ID=sa;Password=$sql3")
+    Dim bd As New SqlConnection("Data Source=+++;Initial Catalog=+++;User ID=sa;Password=+++")
     Dim dv As New DataView
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
